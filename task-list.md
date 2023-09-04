@@ -54,15 +54,15 @@
 
 ## Design the Service Layer for Connect
 
-#### 1. Design Adding Fund Service:
+#### 1. Design Adding Fund Service: (happy scenario & test cases)
 
 - Create a detailed design for the "Adding Fund" service within the "Connect" module, specifying its functions and interactions.
 
-#### 2. Design Withdraw Fund Service:
+#### 2. Design Withdraw Fund Service: (happy scenario & test cases)
 
 - Develop a comprehensive design for the "Withdraw Fund" service, outlining its operations and dependencies.
 
-#### 3. Design Cancel Fund Service:
+#### 3. Design Cancel Fund Service: (happy scenario & test cases)
 
 - Design the "Cancel Fund" service, defining its behavior and integration points.
 
