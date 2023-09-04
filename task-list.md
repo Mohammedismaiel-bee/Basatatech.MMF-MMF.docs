@@ -92,3 +92,18 @@
   - Listening for notifications from the CC system regarding cancelation requests.
   - Sending cancel fund requests to CIC.
   - Updating transaction records based on the response received.
+
+## testing fase
+
+#### Unit teting
+
+- perform unit testing for controller layer
+- for service layer ( adding fund & withdraw & cancel)
+- for repository layer (connecting to database and functionality)
+- for web socket layer (notifications from database)
+- for config layer
+
+#### Integration testing
+
+- perform integration testing for controller layer
+- for web socket layer (notifications from database)
