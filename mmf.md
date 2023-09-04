@@ -49,5 +49,5 @@ Project Phases and Tasks:
 
 #### 5. APK (Mobile Application):
 
-a. Implement the user interface (UI) for the entire frontend of the Money Market Fund (MMF) mobile application.
-b. Integrate the KYC system into the mobile app to ensure customer identity verification.
+- Implement the user interface (UI) for the entire frontend of the Money Market Fund (MMF) mobile application.
+- Integrate the KYC system into the mobile app to ensure customer identity verification.
